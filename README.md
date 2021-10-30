@@ -1,5 +1,5 @@
 # 📢 [<span style="color:black; text-decoration:none">Welcome to My Github Profile</span>](http://github.com/andreanynthn)
-## Hello there! 👋 I am Andrean
+## Hello there! 👋 I'm Andrean
 I am a Mathematics Student at Diponegoro University. I have passion in `Data Science` and `Web Development`. I am currently taking a data science course and also be a participant in **Studi Independen Kampus Merdeka** held by Ministry of Education, Culture, Research and Technology of the Republic of Indonesia.
 
 ## 🔍 Find Me at
